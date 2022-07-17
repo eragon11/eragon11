@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: via LinkedIn
 - ⚡ Fun fact: ...
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![LeetCode Stats](https://leetcode.card.workers.dev/sundarelavarasan?theme=dark&font=milonga&extension=null)
