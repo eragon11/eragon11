@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" width="180" height="220" alt="Elavarasan PL" src="https://sdk.bitmoji.com/render/panel/3faabf1c-92b3-4440-82bd-08cb39072a51-d6f8ff2b-7859-4922-8946-78b5940c25cf-v1.png?transparent=1&palette=1"/>
+<img align="left" width="180" height="220" alt="Elavarasan PL" src="https://sdk.bitmoji.com/render/panel/46cf02ca-eacf-4047-8bea-ec1cb5acbc87-c861c0de-4d42-41dc-a91f-e6719cec8e66-v1.png?transparent=1&palette=1"/>
 
 Here are some ideas to get you started:
 
@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: via LinkedIn
 - ⚡ Fun fact: ...
-
-![LeetCode Stats](https://leetcode.card.workers.dev/sundarelavarasan?theme=dark&font=milonga&extension=null)
 
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eragon11&theme=dark" /></div>
 
