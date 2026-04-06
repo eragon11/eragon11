@@ -50,9 +50,10 @@ I'm **Elavarasan PL**, a software engineer building modern digital experiences a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eragon11&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eragon11&theme=dark&layout=compact" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/eragon11?label=Followers&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/eragon11?label=Stars&style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/github/issues/eragon11/eragon11?label=Issues&style=for-the-badge" alt="Issues" />
+  <img src="https://img.shields.io/github/repo-size/eragon11/eragon11?label=Repo+Size&style=for-the-badge" alt="Repo Size" />
 </div>
 
 ## 🌟 Featured Projects
