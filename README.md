@@ -44,7 +44,7 @@ I'm **Elavarasan PL**, a software engineer building modern digital experiences a
 - 🔧 Generative AI frameworks: LangChain, Hugging Face Transformers, Diffusers
 - 📦 Deployment & MLOps: Docker, Kubernetes, MLflow, Weights & Biases, GitHub Actions
 - 💾 Vector search & embeddings: Pinecone, Weaviate, FAISS
-- 🌐 Cloud AI services: AWS SageMaker, Azure ML, Google Vertex AI
+- ☁️ Cloud AI services: AWS SageMaker
 - 🧪 Interfaces: Streamlit, Gradio, Jupyter, VS Code + Copilot
 
 ## 📊 GitHub Stats
